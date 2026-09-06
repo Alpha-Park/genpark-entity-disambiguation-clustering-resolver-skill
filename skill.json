@@ -1,0 +1,15 @@
+{
+  "name": "genpark-entity-disambiguation-clustering-resolver-skill",
+  "version": "1.0.0",
+  "description": "Resolves fragmented entity mentions into unified canonical nodes using Jaro-Winkler similarity and connected components.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "entity-resolution",
+    "disambiguation",
+    "jaro-winkler",
+    "clustering",
+    "canonicalization"
+  ]
+}
